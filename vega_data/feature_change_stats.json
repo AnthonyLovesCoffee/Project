@@ -1,0 +1,50 @@
+[
+  {
+    "Feature":"Duration (minutes)",
+    "Percentage_Change":-19.8964595692,
+    "Pre_TikTok_Mean":3.6105620155,
+    "Post_TikTok_Mean":2.8921880039,
+    "Absolute_Change":-0.7183740116,
+    "Highlight":true
+  },
+  {
+    "Feature":"Energy",
+    "Percentage_Change":-10.0894808694,
+    "Pre_TikTok_Mean":0.573776814,
+    "Post_TikTok_Mean":0.5158857121,
+    "Absolute_Change":-0.0578911019,
+    "Highlight":false
+  },
+  {
+    "Feature":"Speechiness",
+    "Percentage_Change":8.2479173136,
+    "Pre_TikTok_Mean":0.1049977713,
+    "Post_TikTok_Mean":0.1136579007,
+    "Absolute_Change":0.0086601294,
+    "Highlight":true
+  },
+  {
+    "Feature":"Positivity",
+    "Percentage_Change":-5.5655960395,
+    "Pre_TikTok_Mean":0.4567487112,
+    "Post_TikTok_Mean":0.4313279231,
+    "Absolute_Change":-0.0254207882,
+    "Highlight":false
+  },
+  {
+    "Feature":"Danceability",
+    "Percentage_Change":2.5832794623,
+    "Pre_TikTok_Mean":0.580492345,
+    "Post_TikTok_Mean":0.5954880845,
+    "Absolute_Change":0.0149957395,
+    "Highlight":true
+  },
+  {
+    "Feature":"Tempo (BPM)",
+    "Percentage_Change":0.2675546491,
+    "Pre_TikTok_Mean":118.5039064922,
+    "Post_TikTok_Mean":118.8209692035,
+    "Absolute_Change":0.3170627112,
+    "Highlight":false
+  }
+]

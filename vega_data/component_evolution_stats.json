@@ -1,0 +1,377 @@
+[
+  {
+    "Release year":2010,
+    "Component":"Short Duration",
+    "Value":0.3224510523
+  },
+  {
+    "Release year":2011,
+    "Component":"Short Duration",
+    "Value":0.2164169803
+  },
+  {
+    "Release year":2012,
+    "Component":"Short Duration",
+    "Value":0.0
+  },
+  {
+    "Release year":2013,
+    "Component":"Short Duration",
+    "Value":0.1227954422
+  },
+  {
+    "Release year":2014,
+    "Component":"Short Duration",
+    "Value":0.5151757374
+  },
+  {
+    "Release year":2015,
+    "Component":"Short Duration",
+    "Value":0.3767404823
+  },
+  {
+    "Release year":2016,
+    "Component":"Short Duration",
+    "Value":0.37166438
+  },
+  {
+    "Release year":2017,
+    "Component":"Short Duration",
+    "Value":0.4779984533
+  },
+  {
+    "Release year":2018,
+    "Component":"Short Duration",
+    "Value":0.5676122849
+  },
+  {
+    "Release year":2019,
+    "Component":"Short Duration",
+    "Value":0.623208541
+  },
+  {
+    "Release year":2020,
+    "Component":"Short Duration",
+    "Value":0.6545214974
+  },
+  {
+    "Release year":2021,
+    "Component":"Short Duration",
+    "Value":0.7379722923
+  },
+  {
+    "Release year":2022,
+    "Component":"Short Duration",
+    "Value":0.8766409103
+  },
+  {
+    "Release year":2023,
+    "Component":"Short Duration",
+    "Value":0.9404054068
+  },
+  {
+    "Release year":2024,
+    "Component":"Short Duration",
+    "Value":1.0
+  },
+  {
+    "Release year":2010,
+    "Component":"Danceability",
+    "Value":0.5713221311
+  },
+  {
+    "Release year":2011,
+    "Component":"Danceability",
+    "Value":0.568448951
+  },
+  {
+    "Release year":2012,
+    "Component":"Danceability",
+    "Value":0.5627465278
+  },
+  {
+    "Release year":2013,
+    "Component":"Danceability",
+    "Value":0.5558370213
+  },
+  {
+    "Release year":2014,
+    "Component":"Danceability",
+    "Value":0.5737947368
+  },
+  {
+    "Release year":2015,
+    "Component":"Danceability",
+    "Value":0.5666391489
+  },
+  {
+    "Release year":2016,
+    "Component":"Danceability",
+    "Value":0.597530038
+  },
+  {
+    "Release year":2017,
+    "Component":"Danceability",
+    "Value":0.5991468647
+  },
+  {
+    "Release year":2018,
+    "Component":"Danceability",
+    "Value":0.5935114219
+  },
+  {
+    "Release year":2019,
+    "Component":"Danceability",
+    "Value":0.6226071168
+  },
+  {
+    "Release year":2020,
+    "Component":"Danceability",
+    "Value":0.6108798867
+  },
+  {
+    "Release year":2021,
+    "Component":"Danceability",
+    "Value":0.5940306243
+  },
+  {
+    "Release year":2022,
+    "Component":"Danceability",
+    "Value":0.58701742
+  },
+  {
+    "Release year":2023,
+    "Component":"Danceability",
+    "Value":0.600059437
+  },
+  {
+    "Release year":2024,
+    "Component":"Danceability",
+    "Value":0.5662918391
+  },
+  {
+    "Release year":2010,
+    "Component":"Energy",
+    "Value":0.6335368852
+  },
+  {
+    "Release year":2011,
+    "Component":"Energy",
+    "Value":0.6183813986
+  },
+  {
+    "Release year":2012,
+    "Component":"Energy",
+    "Value":0.6156104167
+  },
+  {
+    "Release year":2013,
+    "Component":"Energy",
+    "Value":0.5052608085
+  },
+  {
+    "Release year":2014,
+    "Component":"Energy",
+    "Value":0.6094952632
+  },
+  {
+    "Release year":2015,
+    "Component":"Energy",
+    "Value":0.6048600426
+  },
+  {
+    "Release year":2016,
+    "Component":"Energy",
+    "Value":0.5898748669
+  },
+  {
+    "Release year":2017,
+    "Component":"Energy",
+    "Value":0.5589707822
+  },
+  {
+    "Release year":2018,
+    "Component":"Energy",
+    "Value":0.5331460769
+  },
+  {
+    "Release year":2019,
+    "Component":"Energy",
+    "Value":0.5476452993
+  },
+  {
+    "Release year":2020,
+    "Component":"Energy",
+    "Value":0.5444237068
+  },
+  {
+    "Release year":2021,
+    "Component":"Energy",
+    "Value":0.5217760353
+  },
+  {
+    "Release year":2022,
+    "Component":"Energy",
+    "Value":0.5113583107
+  },
+  {
+    "Release year":2023,
+    "Component":"Energy",
+    "Value":0.512696697
+  },
+  {
+    "Release year":2024,
+    "Component":"Energy",
+    "Value":0.4804440264
+  },
+  {
+    "Release year":2010,
+    "Component":"Speechiness",
+    "Value":0.0871368852
+  },
+  {
+    "Release year":2011,
+    "Component":"Speechiness",
+    "Value":0.0760531469
+  },
+  {
+    "Release year":2012,
+    "Component":"Speechiness",
+    "Value":0.1104715278
+  },
+  {
+    "Release year":2013,
+    "Component":"Speechiness",
+    "Value":0.0907085106
+  },
+  {
+    "Release year":2014,
+    "Component":"Speechiness",
+    "Value":0.1168984211
+  },
+  {
+    "Release year":2015,
+    "Component":"Speechiness",
+    "Value":0.1009965957
+  },
+  {
+    "Release year":2016,
+    "Component":"Speechiness",
+    "Value":0.1080034221
+  },
+  {
+    "Release year":2017,
+    "Component":"Speechiness",
+    "Value":0.1069023102
+  },
+  {
+    "Release year":2018,
+    "Component":"Speechiness",
+    "Value":0.1194487179
+  },
+  {
+    "Release year":2019,
+    "Component":"Speechiness",
+    "Value":0.1130027372
+  },
+  {
+    "Release year":2020,
+    "Component":"Speechiness",
+    "Value":0.1304305949
+  },
+  {
+    "Release year":2021,
+    "Component":"Speechiness",
+    "Value":0.1069822144
+  },
+  {
+    "Release year":2022,
+    "Component":"Speechiness",
+    "Value":0.1097007533
+  },
+  {
+    "Release year":2023,
+    "Component":"Speechiness",
+    "Value":0.1159711121
+  },
+  {
+    "Release year":2024,
+    "Component":"Speechiness",
+    "Value":0.1060428736
+  },
+  {
+    "Release year":2010,
+    "Component":"Positivity",
+    "Value":0.5047557377
+  },
+  {
+    "Release year":2011,
+    "Component":"Positivity",
+    "Value":0.4766616084
+  },
+  {
+    "Release year":2012,
+    "Component":"Positivity",
+    "Value":0.4763131944
+  },
+  {
+    "Release year":2013,
+    "Component":"Positivity",
+    "Value":0.4109710638
+  },
+  {
+    "Release year":2014,
+    "Component":"Positivity",
+    "Value":0.4707984211
+  },
+  {
+    "Release year":2015,
+    "Component":"Positivity",
+    "Value":0.4676860851
+  },
+  {
+    "Release year":2016,
+    "Component":"Positivity",
+    "Value":0.4606095057
+  },
+  {
+    "Release year":2017,
+    "Component":"Positivity",
+    "Value":0.4392640924
+  },
+  {
+    "Release year":2018,
+    "Component":"Positivity",
+    "Value":0.4527365501
+  },
+  {
+    "Release year":2019,
+    "Component":"Positivity",
+    "Value":0.4526961861
+  },
+  {
+    "Release year":2020,
+    "Component":"Positivity",
+    "Value":0.4447866966
+  },
+  {
+    "Release year":2021,
+    "Component":"Positivity",
+    "Value":0.4133021449
+  },
+  {
+    "Release year":2022,
+    "Component":"Positivity",
+    "Value":0.4240832392
+  },
+  {
+    "Release year":2023,
+    "Component":"Positivity",
+    "Value":0.4431267005
+  },
+  {
+    "Release year":2024,
+    "Component":"Positivity",
+    "Value":0.4039923908
+  }
+]

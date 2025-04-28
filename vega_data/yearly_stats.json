@@ -1,0 +1,122 @@
+[
+  {
+    "Release year":2010,
+    "mean_duration":3.6881967213,
+    "median_duration":3.58,
+    "std_duration":1.5290287612,
+    "song_count":122,
+    "mean_popularity":35.5491803279
+  },
+  {
+    "Release year":2011,
+    "mean_duration":3.8483216783,
+    "median_duration":3.68,
+    "std_duration":2.594496338,
+    "song_count":143,
+    "mean_popularity":35.9370629371
+  },
+  {
+    "Release year":2012,
+    "mean_duration":4.1751388889,
+    "median_duration":3.96,
+    "std_duration":1.4047302636,
+    "song_count":144,
+    "mean_popularity":30.2847222222
+  },
+  {
+    "Release year":2013,
+    "mean_duration":3.9897021277,
+    "median_duration":3.81,
+    "std_duration":1.7872297227,
+    "song_count":235,
+    "mean_popularity":35.0425531915
+  },
+  {
+    "Release year":2014,
+    "mean_duration":3.3971578947,
+    "median_duration":3.36,
+    "std_duration":1.4279871972,
+    "song_count":190,
+    "mean_popularity":34.8526315789
+  },
+  {
+    "Release year":2015,
+    "mean_duration":3.606212766,
+    "median_duration":3.55,
+    "std_duration":1.3932721882,
+    "song_count":235,
+    "mean_popularity":35.4468085106
+  },
+  {
+    "Release year":2016,
+    "mean_duration":3.613878327,
+    "median_duration":3.47,
+    "std_duration":1.5160518281,
+    "song_count":263,
+    "mean_popularity":32.1482889734
+  },
+  {
+    "Release year":2017,
+    "mean_duration":3.45330033,
+    "median_duration":3.38,
+    "std_duration":1.232888306,
+    "song_count":303,
+    "mean_popularity":32.0693069307
+  },
+  {
+    "Release year":2018,
+    "mean_duration":3.317972028,
+    "median_duration":3.29,
+    "std_duration":1.161319882,
+    "song_count":429,
+    "mean_popularity":32.7878787879
+  },
+  {
+    "Release year":2019,
+    "mean_duration":3.2340145985,
+    "median_duration":3.19,
+    "std_duration":1.1813619382,
+    "song_count":548,
+    "mean_popularity":33.3667883212
+  },
+  {
+    "Release year":2020,
+    "mean_duration":3.1867280453,
+    "median_duration":3.03,
+    "std_duration":2.7734719879,
+    "song_count":706,
+    "mean_popularity":34.5424929178
+  },
+  {
+    "Release year":2021,
+    "mean_duration":3.0607067138,
+    "median_duration":2.82,
+    "std_duration":2.9580037682,
+    "song_count":849,
+    "mean_popularity":36.1672555948
+  },
+  {
+    "Release year":2022,
+    "mean_duration":2.851299435,
+    "median_duration":2.77,
+    "std_duration":1.1305731603,
+    "song_count":1062,
+    "mean_popularity":32.1384180791
+  },
+  {
+    "Release year":2023,
+    "mean_duration":2.755006922,
+    "median_duration":2.67,
+    "std_duration":1.1493339383,
+    "song_count":2167,
+    "mean_popularity":30.1688970928
+  },
+  {
+    "Release year":2024,
+    "mean_duration":2.6650114943,
+    "median_duration":2.57,
+    "std_duration":1.0515899245,
+    "song_count":870,
+    "mean_popularity":24.8804597701
+  }
+]
